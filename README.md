@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-This is project build on HTMl that demostrate some of the JavaScript functions
+This is project Html project built for tourist that visit california and demostrate some of the JavaScript functions
 
 ## License
 
