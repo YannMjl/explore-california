@@ -1,7 +1,5 @@
 # explore-california
 
-## Getting Started
-
 This is project Html project built for tourist that visit california and demostrate some of the JavaScript functions
 
 ## License
